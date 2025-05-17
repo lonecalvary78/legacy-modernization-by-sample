@@ -14,5 +14,4 @@ There are limit of coverage on this guideline:
 <ol>
   <li>Building the application project</li>
   <li>Preparing the build image</li>
-li>
 </ol>

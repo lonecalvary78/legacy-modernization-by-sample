@@ -11,7 +11,5 @@ There are limit of coverage on this guideline:
 </ol>
 
 ## Steps
-<ol>
-  <li>Building the application project![application-project-build](application-project-build.md)</li>
-  <li>Preparing the build image![application-image-preparation](./application-image-preparation.md)</li>
-</ol>
+- [Building the application project](application-project-build.md)
+- [Preparing the build image](./application-image-preparation.md)

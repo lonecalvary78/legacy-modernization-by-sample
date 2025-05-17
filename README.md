@@ -12,7 +12,7 @@ There are limit of coverage on this guideline:
 
 ## Steps
 <ol>
-  <li>[Building the application project](./application-image-preparation.md)</li>
-  <li>[Preparing the build image](./application-image-preparation.md)</li>
+  <li>Building the application project</li>
+  <li>Preparing the build image</li>
 li>
 </ol>
